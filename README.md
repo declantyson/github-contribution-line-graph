@@ -2,7 +2,7 @@
 
 Chrome Extension to add a line graph underneath the standard contributions
 
-![Screenshot](http://github.com/declantyson/github-contribution-line-graph/raw/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/declantyson/github-contribution-line-graph/master/screenshot.png)
 
 ### Why?
 
