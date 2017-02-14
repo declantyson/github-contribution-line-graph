@@ -19,3 +19,8 @@ don't really care
 ### Will you ever update this to include any actual functionality?
 
 probs not
+
+### How do I shot web
+
+Hey it's 2003 again
+https://chrome.google.com/webstore/detail/github-contribution-line/djhobfakbgkiddiicpajklnlncgppogf?authuser=1
